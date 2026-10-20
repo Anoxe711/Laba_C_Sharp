@@ -1,0 +1,14 @@
+C:\Users\Alexey\Desktop\ColorPaletteDemo\bin\Debug\net10.0\ColorPaletteDemo.exe
+C:\Users\Alexey\Desktop\ColorPaletteDemo\bin\Debug\net10.0\ColorPaletteDemo.deps.json
+C:\Users\Alexey\Desktop\ColorPaletteDemo\bin\Debug\net10.0\ColorPaletteDemo.runtimeconfig.json
+C:\Users\Alexey\Desktop\ColorPaletteDemo\bin\Debug\net10.0\ColorPaletteDemo.dll
+C:\Users\Alexey\Desktop\ColorPaletteDemo\bin\Debug\net10.0\ColorPaletteDemo.pdb
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.dll
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\refint\ColorPaletteDemo.dll
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.pdb
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ColorPaletteDemo.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\ColorPaletteDemo\obj\Debug\net10.0\ref\ColorPaletteDemo.dll
